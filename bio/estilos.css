@@ -1,0 +1,33 @@
+@font-face {
+font-family: fuente_cavi;
+src: fuentes\CaviarDreams.ttf;
+
+font-family: luna;
+src: assets\fuentes\Luna.tff;
+}
+
+
+
+h1{
+  font-family: luna;
+  color:#006784;
+  text-shadow: 2px 2px darkgrey;
+}
+
+body{
+  background-image: url("wall-008.jpg");
+  background-size: 100%;
+}
+
+section{
+  position: absolute;
+  top: 10px;
+  left: 600px;
+}
+table{
+  font-family: fuente_cavi;
+  color: white;
+  text-shadow: 1px 1px black;
+  background-color: rgba(0, 0, 0, 0.4);
+  border-radius: 4px;
+}
