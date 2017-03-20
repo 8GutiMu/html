@@ -1,12 +1,14 @@
+@font-face {
+    font-family: myFont;
+    src: url(assets/fuentes/call_it_skinny.ttf);
+}
 
 body {
   background-color:#E6E6E6
-
 }
-h1 {
-
-   font-family:Helvetica;
-   text-align:center
+div{
+   font-family: arial;
+   text-align: center;
 }
 
 section{
